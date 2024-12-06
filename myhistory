@@ -1,7 +1,6 @@
     1  download github
     2  ls
     3  ls -l
-    4  pwd
     5  mkdir
     6  mkdir training
     7  ls -l
