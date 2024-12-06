@@ -1,0 +1,230 @@
+    1  download github
+    2  ls
+    3  ls -l
+    4  pwd
+    5  mkdir
+    6  mkdir training
+    7  ls -l
+    8  cd (training)
+    9  cd training
+   10  pwd
+   11  ls -l
+   12  touch vivek
+   13  ls -l
+   14  cat
+   15  cat vivek
+   16  cd training
+   17  ls -l
+   18  mkdir training
+   19  cd /c/Users/V VIVEK/training
+   20  cd "/c/Users/V VIVEK/training"
+   21  ls
+   22  vi vivek 
+   23  cat vivek
+   24  mv vivek vinay
+   25  ls  -l
+   26  cp vinay vicky
+   27  ls -l
+   28  catb vicky
+   29  cat vicky
+   30  history
+   31  date
+   32  time
+   33  pwd
+   34  pwd vinay
+   35  pwd vivek
+   36  ls
+   37  ls vinay
+   38  ls vivek
+   39  mkdir vivek
+   40  mkdir vusuri
+   41  [200~
+   42  [200~jdub@Snowball:~$ cd /home~
+   43  mkdir vivek
+   44  exc
+   45  esc
+   46  clear
+   47  mkdir vivek
+   48  mkdir a
+   49  ls -l
+   50  ls
+   51  mkdir
+   52  mkdir --help
+   53  mkdir y
+   54  mkdir(a)
+   55  mkdir shit
+   56  ls
+   57  ls -l
+   58  mkdir vivek
+   59  ls -l vivek
+   60  ls vivek
+   61  ls -l vivek
+   62  pwd
+   63  pwd vivek
+   64  pwd vivek
+   65  cd
+   66  cd vivek
+   67  pwd test
+   68  mkdir vivek
+   69  mkdir vivek
+   70  mkdirvivek
+   71  mkdir 'vivek'
+   72  cd
+   73  mkdir vivek
+   74  vi
+   75  vi vivek
+   76  vi vivek.txt
+   77  cat
+   78  cat vivek
+   79  pwd
+   80  pwd vivek
+   81  ls vivek
+   82  ls -l vivek
+   83  ls -l vivek.txt
+   84  ls vivek.txt
+   85  mv vivek.txt vinat.txt
+   86  cat vivek.txt
+   87  whoami
+   88  uname
+   89  uptime
+   90  cat vivek.txt
+   91  du ~h
+   92  du -h
+   93  cd~
+   94  cd ~
+   95  mkdir vivek
+   96  mkdir v
+   97  cd v
+   98  pwd
+   99  ls -l 
+  100  touch 1.txt
+  101  ls -l
+  102  vi 1.txt
+  103  cat 1.txt
+  104  cat vinay.txt
+  105  df -h
+  106  uname 
+  107  who ami
+  108  whoami
+  109  ps -aux
+  110  ps -au
+  111  curl google.com
+  112  curl vivek.com
+  113  history
+  114  ls 
+  115  ls -l
+  116  wget https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.tar.gz
+  117  apt install wget
+  118  yum install wget
+  119  free -h
+  120  clear
+  121  less 1.txt
+  122  grep hi 1.txt
+  123  grep hi end
+  124  grep hiend
+  125  grep hi end 1.txt
+  126  grep "hi end" 1.txt
+  127  grep "hi end" *.*
+  128  grep hi *.*
+  129  grep print *.*
+  130  grep a *.*
+  131  echo "hi sir"
+  132  echo "hi sir" >hi.txt
+  133  ls -l
+  134  ls -l hi.txt
+  135  echo "hi sir" >end.txt
+  136  echo "end" >end.txt
+  137  ls -l
+  138  grep "end" *.*
+  139  grep "hi" *.*
+  140  ls
+  141  pwd
+  142  find /c/Users/v vivek/v hi.txt
+  143  date
+  144  cd~
+  145  cd ~
+  146  ls
+  147  ls -l
+  148  cd training
+  149  ls
+  150  mkdir git
+  151  mv gitvivek
+  152  mv git gitvivek
+  153  ls -l
+  154  cd gitvivek
+  155  git clone https://github.com/vivekv-dot/vivekv.git
+  156  git clone https://github.com/vivekv-dot/vivekv.git
+  157  ls -al
+  158  cd vivek
+  159  cd vivekv
+  160  ls 
+  161  ls -al
+  162  clear
+  163  touch abc
+  164  touch 123
+  165  ls 
+  166  git status
+  167  git add 123 abc
+  168  git status
+  169  git commit -m 'testing'
+  170   git config --global user.email "vusurivivek@gmail.com"
+  171   git config --global user.name "vivekv"
+  172  git status
+  173  git commit -m 'testing' 123 abc
+  174  cd ..
+  175  ls -al
+  176  git clone https://github.com/vivekv-dot/vivek.git
+  177  ls -al
+  178  cd vivek
+  179  touch x y z
+  180  ls
+  181  ls -l
+  182  ls -al
+  183  git add .
+  184  git status
+  185  git commit -m 'for testing'
+  186  git status
+  187  ls
+  188  ls -l
+  189  ls -al
+  190  vi x
+  191  git  status
+  192  git add x
+  193  git status
+  194  git commit -m 'i have modified the file x'
+  195  git status
+  196  git log
+  197  cd ..
+  198  cd vivekv
+  199  ls -al
+  200  git status
+  201  git log
+  202  cd ..
+  203  ls
+  204  rm -rf vivekv
+  205  ls
+  206  cd vivek
+  207  git status
+  208  git log
+  209  ls
+  210  echo 'this is y file' > y
+  211  echo 'this is z file' > z
+  212  cat y 
+  213  cat z
+  214  git status
+  215  echo 'this is x file' >> x
+  216  cat x
+  217  git status
+  218  git add z
+  219  git status
+  220  git commit -m 'i added content to z file'
+  221  git status
+  222  git add .
+  223  git status
+  224  git log
+  225  git status
+  226  git commit -m 'i am commiting x file' 
+  227  git status
+  228  git log
+  229  history
+  230  history > myhistory
